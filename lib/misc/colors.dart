@@ -3,6 +3,16 @@ import 'dart:ui';
 class AppColors {
   static final Color white = HexColor.fromHex('#FFFFFF');
 
+  // Primary
+  static final Color primaryBase = HexColor.fromHex('#273C75');
+  static final Color primary400 = HexColor.fromHex('#2FA2B9');
+  static final Color primary300 = HexColor.fromHex('#6AE4FD');
+  static final Color primary200 = HexColor.fromHex('#97EDFF');
+  static final Color primary100 = HexColor.fromHex('#F0FCFF');
+
+  // Errors
+  static final Color errorDark = HexColor.fromHex('#EF4444');
+
   // Grayscale
   static final Color gray900 = HexColor.fromHex('#111827');
   static final Color gray800 = HexColor.fromHex('#1D2734');

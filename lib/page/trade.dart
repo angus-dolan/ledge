@@ -9,7 +9,7 @@ class _TradeState extends State<Trade> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(title: Text('Trade')),
+        appBar: AppBar(backgroundColor: Colors.red, title: Text('Trade')),
         body: Center(
           child: Text('Trade Screen', style: TextStyle(fontSize: 40)),
         ));
