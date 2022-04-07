@@ -1,16 +1,9 @@
-# ledge
+# Ledge
 
-A new Flutter project.
+Android and iOS cryptocurrency portfolio tracker built using Flutter, Dart, Firebase and the <a href="https://www.coingecko.com/en/api">CoinGeko API</a>.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+![demo](https://media.giphy.com/media/tjq5bO5xAoM7U6GawK/giphy.gif)
+![demo](https://media.giphy.com/media/T2Ixt6c0AoBni8uuNT/giphy.gif)
+![demo](https://media.giphy.com/media/jL02hmJ72YbTNDlU3t/giphy.gif)
+![demo](https://media.giphy.com/media/6zJOwYpP5mXN2fbj0p/giphy.gif)
