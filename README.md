@@ -1,6 +1,6 @@
 # Ledge
 
-Android and iOS cryptocurrency portfolio tracker built using Flutter, Dart, Firebase and the <a href="https://www.coingecko.com/en/api">CoinGeko API</a>.
+Android and iOS cryptocurrency portfolio tracker built using Flutter, Dart, Firebase and the <a href="https://www.coingecko.com/en/api">CoinGecko API</a>.
 
 ## Demo
 ![demo](https://media.giphy.com/media/tjq5bO5xAoM7U6GawK/giphy.gif)
